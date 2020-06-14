@@ -54,6 +54,6 @@ You can find our solution [here](DESCRIPTION.md).
 
 ## Built With
 
-IBM Watson Assistant 
-Android Studios
-Figma 
+1. IBM Watson Assistant 
+2. Android Studios
+3. Figma 
