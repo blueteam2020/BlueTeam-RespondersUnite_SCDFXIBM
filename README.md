@@ -40,7 +40,7 @@ The following figures are the architecture diagrams of our solution. They have b
 
 ### Using Chatbot to Gather Relevant Information
 
-![Architecture Diagram: Chatbot](architecture_diagram/chatbot.png)
+![Architecture Diagram: Chatbot](architecture_diagrams/chatbot.png)
 
 1. CFR provides information of accident
 2. Information is analysed by chatbot
