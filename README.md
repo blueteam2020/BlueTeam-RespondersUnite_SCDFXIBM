@@ -58,3 +58,4 @@ You can find our solution [here](DESCRIPTION.md).
 
 1. IBM Watson Assistant to create the chatbot
 2. Android Studios
+3. Figma
