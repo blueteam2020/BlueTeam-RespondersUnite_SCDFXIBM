@@ -19,8 +19,7 @@ To make the above a reality, we propose to
 ## Pitch Video
 
 Here is our pitch: 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PRn1Kb0Z-tY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Video](https://youtu.be/PRn1Kb0Z-tY)
 
 ## Architecture of Our Proposed Solution
 
