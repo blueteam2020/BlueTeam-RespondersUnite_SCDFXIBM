@@ -52,6 +52,8 @@ The following figures are the architecture diagrams of our solution. They have b
 
 You can find our solution [here](DESCRIPTION.md).
 
-## Getting Started
-
 ## Built With
+
+IBM Watson Assistant 
+Android Studios
+Figma 
