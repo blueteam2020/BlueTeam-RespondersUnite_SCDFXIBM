@@ -4,6 +4,8 @@ In this document, we will elaborate on *Responders Unite*, a platform that seeks
 
 To address each of our promise, we detail how our application works and provide mockup(s) in the three sections below.
 
+View the app [here](https://www.figma.com/file/pGx64Sr91xN4bSYgKMohrE/Responders-Unite?node-id=0%3A1)!
+
 ## Bringing Individual CFRs Together: The Forum
 
 ![Forum](mockups/forum.png)
