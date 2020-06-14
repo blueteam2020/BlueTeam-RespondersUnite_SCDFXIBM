@@ -19,7 +19,7 @@ To make the above a reality, we propose to
 ## Pitch Video
 
 Here is our pitch: 
-![Video](https://youtu.be/PRn1Kb0Z-tY)
+[![Youtube Link](http://img.youtube.com/vi/PRn1Kb0Z-tY/0.jpg)](http://www.youtube.com/watch?v=PRn1Kb0Z-tY "Blue Team: Responders Unite_SCDFXIBM")
 
 ## Architecture of Our Proposed Solution
 
