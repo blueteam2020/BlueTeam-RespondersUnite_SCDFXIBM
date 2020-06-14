@@ -5,6 +5,8 @@ We are coders who aspire to make a difference and here is our attempt at doing s
 
 We decided to tackle the first problem *Emergency Medical Services*. Specifically, we propose to enhance SCDF's myResponder application to further empower CFRs (Community First Responders). This will reduce the workload of SCDF and allow them to redirect their efforts to more urgent crises, as well as develop a more resilient and united community. 
 
+![Responders Unite App](mockups/main.png)
+
 Our application *Responders Unite* is not only a platform that seeks to **bring individual CFRs together**, but also **provides them with relevant information** that facilitates faster response, a smart application that **alerts them of potential accidents** that warrant their attention, and **eases the collaboration between CFRs and SCDF**.
 
 To make the above a reality, we propose to
