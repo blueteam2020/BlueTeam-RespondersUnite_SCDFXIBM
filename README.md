@@ -18,7 +18,7 @@ To make the above a reality, we propose to
 
 ## Pitch Video
 
-Here is our pitch: ![Pitch video]()
+Here is our pitch: ![Pitch video](https://youtu.be/PRn1Kb0Z-tY)
 
 ## Architecture of Our Proposed Solution
 
