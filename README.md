@@ -23,7 +23,7 @@ Here is our pitch: ![Pitch video]()
 
 ## Details of Our Solution
 
-You can find our solution [here]().
+You can find our solution [here](DESCRIPTION.md).
 
 ## Getting Started
 
