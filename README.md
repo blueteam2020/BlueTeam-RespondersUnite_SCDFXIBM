@@ -54,6 +54,4 @@ You can find our solution [here](DESCRIPTION.md).
 
 ## Built With
 
-1. IBM Watson Assistant 
-2. Android Studios
-3. Figma 
+1. IBM Watson Assistant to create the chatbot
